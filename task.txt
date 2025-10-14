@@ -1,0 +1,12 @@
+PERSONAL BLOG API
+
+ENDPOINTS: 
+
+/newBlog
+/deleteBlog
+/updateBlog
+/getarticles
+/getarticles
+
+FINISH !!!
+

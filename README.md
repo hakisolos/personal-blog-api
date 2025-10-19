@@ -18,4 +18,4 @@ app.DELETE("/deleteBlog", deleteBlog)
 - Datatabase: `PostgreSQL`
 
 
-> LIKE FORK AND START, THANK YOU >_<
+> LIKE FORK AND STAR, THANK YOU >_<
